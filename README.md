@@ -7,6 +7,7 @@ This project was created as a testing ground for exploring the features and capa
 ## Table of Contents
 
 - [Requirements](#requirements)
+- [Features](#features)
 - [Installation](#installation)
 
 ## Requirements
@@ -30,6 +31,10 @@ imutils==0.5.4
 ```bash
 face-recognition==1.3.0
 ```
+
+## Features
+1. Add face to library from webcam.
+2. Recognize face from webcam.
 
 ## Installation
 
